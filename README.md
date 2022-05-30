@@ -2,4 +2,4 @@
 
 ## Project for CSE4110
 
-A tetris with AI implementation using pygame 
+A tetris with AI implementation using pygame
